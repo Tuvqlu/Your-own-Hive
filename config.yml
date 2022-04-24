@@ -1,0 +1,37 @@
+#config.yml
+
+Enable Plugin: true
+
+#lobby items
+Friends: true
+Party: true
+Locker: true
+Minigame Selector: true
+
+#friends
+
+UI: true
+Enabled: true
+Friend Limit: true
+#there will be a friend limit
+Friend Extend with Hive+: true
+#there will be more friend slots with hive+ rank
+Requests: true
+#you can send friend requests
+Requests count as slots: true
+Friend Req Lasting Time: -1
+#-1 for unlimited
+Slot Limit: 100
+#how many friends you ca have, -1 for unlimited
+Slot limit for staff: -1 
+#1 for unlimited
+Show Avatar in list: true
+#will it show their avatar in list
+Show Game from list: true
+#will it show what game they are in list
+Show hub title in list: true
+#will it show their hub title in list
+New Friend Notifs: true 
+#if false they will be in toggles
+Join Game from list: true
+#can you join your friends game from a list
