@@ -7,8 +7,9 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 
 class hive extends PluginBase{
-  
-  public function onEnable(): void{
-      $this->getLogger()->("This is still in-development!");
-  }
+
+    protected function onEnable() : void{  
+        $this->getLogger()->info("Plugin has been Enabled");
+    }
+
 }
