@@ -11,3 +11,7 @@ Add this plugin then check Config.yml and set to your preferences!
 - Friend Menu
 
 - Hive PvP
+
+- New UI
+
+- Texture Pack
