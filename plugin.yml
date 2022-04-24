@@ -1,5 +1,5 @@
 ---
-name: Your_Own_Hive
+name: YourOwnHive
 version: 1.0.0-InDev
 main: Tuvqlu\YourOwnHive\hive
 api: 4.0.0
