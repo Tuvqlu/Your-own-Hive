@@ -50,6 +50,6 @@ Photos: true
 #ui
 
 Old-UI: false
-New-UI true
+New-UI: true
 
 #end-for-now
