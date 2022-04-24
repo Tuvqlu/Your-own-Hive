@@ -40,6 +40,10 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Level
 
+- Hub
+
+- Quests
+
 - Minigames
 
 - Easter Egg Hunt
