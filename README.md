@@ -36,9 +36,9 @@ Add this plugin then check all ymls and set to your preferences!
 
 - NPCs
 
-**To Do:**
+- Levels
 
-- Level
+**To Do:**
 
 - Hub
 
