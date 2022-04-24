@@ -9,6 +9,6 @@ use pocketmine\utils\TextFormat;
 class hive extends PluginBase{
   
   public function onEnable(): void{
-      $this->getLogger()->( . TextFormat::DARK_RED . "This is still in-development!");
+      $this->getLogger()->( TextFormat::DARK_RED . "This is still in-development!");
   }
 }
