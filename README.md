@@ -51,3 +51,19 @@ Add this plugin then check all ymls and set to your preferences!
 - Mixed Arcade
 
 - Ranks
+
+**Hub Titles:**
+
+All Hive Hub titles are already included!
+
+To set hub title locations you must do it in game!
+
+Do /ht spawn (hub title)
+
+You can click it and you will claim it!
+
+Do /ht remove (hub title) to remove one and /ht remspawn to remove a spawned one!
+
+Do /ht create (ht) to create your own!
+
+...
