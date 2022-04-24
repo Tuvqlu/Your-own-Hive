@@ -52,4 +52,19 @@ Photos: true
 Old-UI: false
 New-UI: true
 
-#end-for-now
+#parties
+
+UI: true
+Invites: true
+Invites only from friends: false
+YouTube cannot get invite without friend: true
+#you can only invite a YouTube Rank if they are in your friends list
+Party Slots: 4
+#-1 for unlimited 
+TP to game with party: true
+Can't queue in party: true
+TP to custom server with party: false
+Party Slots with Hive+: 8
+Party Slots with Staff and YT: 12
+
+#end for now
