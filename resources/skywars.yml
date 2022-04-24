@@ -1,0 +1,16 @@
+---
+Skywars: true
+Enabled: true
+
+Countdown: 15
+Start With: 25%
+#what percentage of players needed to start
+
+Levels: true
+
+Lucky ores: true
+Mystery Chest: true
+Mystery Chest Rate: 240s
+#in seconds
+
+...
