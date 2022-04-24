@@ -2,8 +2,9 @@
 build-by-default: true
 branches:
 - main
-projects: []
+- master
+projects: [plugin]
 enabled: true
-
-
+hive: true
+plugin: true
 ...
