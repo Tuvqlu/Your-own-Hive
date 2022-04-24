@@ -24,13 +24,13 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Economy
 
+- NPCs
+
 **To Do:**
 
 - Level
 
 - Minigames
-
-- NPCs
 
 - Easter Egg Hunt
 
