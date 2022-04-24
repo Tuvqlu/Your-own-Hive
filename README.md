@@ -21,6 +21,8 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Friend Menu
 
+- SkyWars
+
 - Hive PvP
 
 - New UI
@@ -42,6 +44,8 @@ Add this plugin then check all ymls and set to your preferences!
 **To Do:**
 
 - Hub
+
+- Leaderboards
 
 - Quests
 
@@ -66,6 +70,13 @@ You can click it and you will claim it!
 Do /ht remove (hub title) to remove one and /ht remspawn to remove a spawned one!
 
 Do /ht create (ht) to create your own!
+
+**SkyWars:**
+
+1. Set NPC
+2. Go to world and do /sw create
+3. Navigate Through UI to fit all needs!
+4. Play!
 
 **Credits:**
 
