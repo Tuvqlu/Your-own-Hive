@@ -1,0 +1,55 @@
+{
+    "name": "nhanaz/profanityfilter",
+    "description": "Powerful Profanity Filter Plugin For PocketMine-MP Servers",
+    "type": "project",
+    "keywords": [
+        "profanityfilter",
+        "pocketmine-mp"
+    ],
+    "readme": "README.md",
+    "homepage": "https://github.com/nhanaz-pm-pl",
+    "time": "2022-02-01 00:00",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "NhanAZ",
+            "email": "nhanaz@protonmail.com",
+            "homepage": "https://github.com/NhanAZ",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "tuvalu4057@gmail.com",
+        "issues": "https://github.com/Tuvqlu/YourOwnHive/issues",
+        "wiki": "https://github.com/Tuvqlu/YourOwnHive/wiki",
+        "source": "https://github.com/Tuvqlu/YourOwnHive",
+        "chat": "https://discord.gg/hive"
+    },
+    "funding": [
+        {
+            "type": "paypal",
+            "url": "https://www.paypal.me/hive"
+        },
+        {
+            "type": "patreon",
+            "url": "https://patreon.com/hive"
+        }
+    ],
+    "require": {
+        "phpstan/phpstan": "1.4.10",
+        "phpstan/phpstan-strict-rules": "1.1.0",
+        "phpstan/extension-installer": "1.1.0",
+        "pocketmine/pocketmine-mp": "4.3.1",
+        "cortexpe/commando": "dev-PM4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Tuvqlu\\YourOwnHive\\": "src/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}
