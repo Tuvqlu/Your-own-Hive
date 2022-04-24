@@ -40,3 +40,16 @@ New Friend Notifs: true
 #if false they will be in toggles
 Join Game from list: true
 #can you join your friends game from a list
+
+#texture-pack
+
+Joining HIVE Screen Enabled: true
+Joining Screen Text: HIVE
+Photos: true
+
+#ui
+
+Old-UI: false
+New-UI true
+
+#end-for-now
