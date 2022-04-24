@@ -10,6 +10,8 @@ class hive extends PluginBase{
 
     protected function onEnable() : void{  
         $this->getLogger()->info("Plugin has been Enabled");
+        @mkdir($this->getDataFolder());
+        $this->saveDefaultConfig();
     }
 
 }
