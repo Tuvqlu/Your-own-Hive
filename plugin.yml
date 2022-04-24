@@ -1,0 +1,17 @@
+---
+name: Your Own Hive
+version: 1.0.0
+main: Tuvqlu\YourOwnHive\0
+api: 4.0.0
+
+website: github.com/Tuvqlu/YourOwnHive
+description: Hive Server in your own!
+author: Tuvqlu
+extensions:
+  core: ">=4.0"
+
+permissions:
+  staff.hive:
+    description: "Staff"
+    default: op
+...
