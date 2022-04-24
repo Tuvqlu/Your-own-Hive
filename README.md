@@ -33,3 +33,7 @@ Add this plugin then check Config.yml and set to your preferences!
 - Easter Egg Hunt
 
 - Mixed Arcade
+
+- Economy
+
+- Ranks
