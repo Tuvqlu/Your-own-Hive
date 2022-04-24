@@ -97,4 +97,17 @@ Dragon: true
 Rock: true
 Pirate Ship: true
 
+#economy
+Money: true
+Default money: 1000
+Pet Price: 10000
+Staff and YT get unlimited: true
+Money Commands:
+ - addmoney
+ - givemoney 
+ - takemoney
+ - setmoney 
+ - seemoney
+Monetary Symbol: €
+
 ...
