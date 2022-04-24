@@ -17,3 +17,17 @@ Add this plugin then check Config.yml and set to your preferences!
 - Texture Pack
 
 - Parties
+
+**To Do:**
+
+- Locker
+
+- Level
+
+- Minigames
+
+- NPCs
+
+- Easter Egg Hunt
+
+- Mixed Arcade
