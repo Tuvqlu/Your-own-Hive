@@ -1,0 +1,36 @@
+---
+levels: true
+max level: true
+
+Skywars: 75
+Hub: 25
+Treasure Wars: 100
+TW Prestige: 5
+Deathrun: 40
+Murder Mystery: 100
+Just Build: 20
+Mixed Arcade: 25
+Hide and Seek: 50
+TheBridge: 25
+
+Unlocks: true
+Seperate Minigame Locker: true
+
+All: false
+Staff and YT all: true
+
+Xp Bar: true
+UI: false
+
+#commands
+
+Give XP: /givexp
+Take XP: /takexp
+See XP: /seexp
+
+#all unlocks are already in if you would like to add more you can do it like this
+Add:
+  Skywars: 
+   76: "Kill Phrase:'{killer} smashed {victim} to pieces.'"
+   77: "Gravestone:'gravestone.json'" #you must add the texture
+   
