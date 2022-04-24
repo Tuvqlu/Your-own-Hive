@@ -18,6 +18,8 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Joining Items
 
+- Minigame Core
+
 - Friend Menu
 
 - Hive PvP
