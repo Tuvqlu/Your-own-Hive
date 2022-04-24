@@ -8,6 +8,11 @@ Party: true
 Locker: true
 Minigame Selector: true
 
+#combo
+
+Hive PvP: true
+#if false will be regular vanilla pvp
+
 #friends
 
 UI: true
