@@ -1,2 +1,8 @@
 # Your-own-Hive
-Download this Plugin and you will have Hive MC server in your own!
+
+This Plugin has all the essentials with HiveMC!
+
+Add this plugin then check Config.yml and set to your preferences!
+
+*Currently Implemented:
+
