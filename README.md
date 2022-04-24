@@ -18,9 +18,11 @@ Add this plugin then check Config.yml and set to your preferences!
 
 - Parties
 
-**To Do:**
-
 - Locker
+
+- Pets
+
+**To Do:**
 
 - Level
 
