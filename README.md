@@ -1,5 +1,7 @@
 # Your-own-Hive
 
+Version: v1.2.0
+
 This Plugin has all the essentials with HiveMC!
 
 Add this plugin then check all ymls and set to your preferences!
