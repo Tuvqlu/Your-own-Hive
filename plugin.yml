@@ -1,10 +1,10 @@
 ---
-name: Your Own Hive
-version: 1.0.0
-main: Tuvqlu\YourOwnHive\0
+name: Your_Own_Hive
+version: 1.0.0-InDev
+main: Tuvqlu\YourOwnHive\hive
 api: 4.0.0
 
-website: github.com/Tuvqlu/YourOwnHive
+website: https://github.com/Tuvqlu/Your-own-Hive/
 description: Hive Server in your own!
 author: Tuvqlu
 extensions:
