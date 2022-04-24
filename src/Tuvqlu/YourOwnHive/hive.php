@@ -21,13 +21,13 @@ class hive extends PluginBase implements Listener{
     
 	public function onJoin(PlayerJoinEvent $event) : void{
 		$player = $event->getPlayer();
-        $this->sendTitle("Welcome!");
+        $player->sendTitle("Welcome!");
 	}
     
     public function onLevelChange(EntityTeleportEvent $event) : void{
 		$entity = $event->getEntity();
 		if($entity instanceof Player){
-            $this->sendTitle("Teleporting to World...");
+            $entity->sendTitle("Teleporting to World...");
         }
     }
 
