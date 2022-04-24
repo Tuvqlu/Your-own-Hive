@@ -29,6 +29,6 @@ class hive extends PluginBase implements Listener{
 		if($entity instanceof Player){
             $this->sendTitle("Teleporting to World...");
         }
-	}
+    }
 
 }
