@@ -67,4 +67,10 @@ Do /ht remove (hub title) to remove one and /ht remspawn to remove a spawned one
 
 Do /ht create (ht) to create your own!
 
+**Credits:**
+
+- ItsToxicGG
+
+- FernanACM
+
 ...
