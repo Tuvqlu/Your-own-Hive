@@ -67,4 +67,34 @@ TP to custom server with party: false
 Party Slots with Hive+: 8
 Party Slots with Staff and YT: 12
 
-#end for now
+#locker
+
+UI: true
+Hub Titles: enabled
+Avatars: enabled
+Costumes: enabled
+All: false
+#all are automatically unlocked
+Staff and YT all: true
+#staff and YouTube Rank get all unlocked
+3D Costumes: true
+Minigame Locker button: false
+
+#pets
+
+UI: true
+All: false
+Staff and YT all: true
+Free Rename: true
+Unallowed Names:
+ - Shit
+ - fuck
+ - ass
+ - Hive
+Cubee: true
+Endolotl: true
+Dragon: true
+Rock: true
+Pirate Ship: true
+
+...
