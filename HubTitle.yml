@@ -1,0 +1,16 @@
+---
+Hub Titles: true
+
+Hub Title Command: /addht
+
+Hub Title Locker Command: /ht
+
+#hub title model
+Default: true
+#to make your own add to resource pack
+#default is a bee
+
+Hub Title Sound Claim: note.pling
+Hub Title Particles: rainbow.swirls
+
+...
