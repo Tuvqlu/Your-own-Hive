@@ -2,7 +2,7 @@
 
 This Plugin has all the essentials with HiveMC!
 
-Add this plugin then check Config.yml and set to your preferences!
+Add this plugin then check all ymls and set to your preferences!
 
 **Currently Implemented:**
 
