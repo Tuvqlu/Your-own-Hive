@@ -202,4 +202,21 @@ Dragon Colors:
 - Purple
 Pirate Ship: true
 Rock: true
+
+#minigame-core
+Enabled: true
+
+Items:
+ Locker: true
+ Leave: true
+ Friends: false
+ Party: false
+ Global Locker: false
+ Map Vote: true
+ 
+Countdown: 30s
+Clear Inv on arena join: true
+Clear Inv on lobby join: true
+Clear effects on arena join: true
+Clear effects on lobby join: true
 ...
