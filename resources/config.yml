@@ -255,4 +255,6 @@ Add:
   Skywars: 
    76: "Kill Phrase:'{killer} smashed {victim} to pieces.'"
    77: "Gravestone:'gravestone.json'" #you must add the texture
+   
+ #minigames
 ...
