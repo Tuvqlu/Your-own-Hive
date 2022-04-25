@@ -1,6 +1,6 @@
 ---
 name: YourOwnHive
-version: 1.3.0
+version: 1.5.0
 main: Tuvqlu\YourOwnHive\hive
 api: 4.0.0
 
