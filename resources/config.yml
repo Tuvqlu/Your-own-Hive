@@ -136,4 +136,8 @@ Default: true
 Hub Title Sound Claim: note.pling
 Hub Title Particles: rainbow.swirls
 
+#texture-pack
+
+Force-Join: true
+
 ...
