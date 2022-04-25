@@ -78,9 +78,10 @@ Do /ht create (ht) to create your own!
 **SkyWars:**
 
 1. Set NPC
-2. Go to world and do /sw create
-3. Navigate Through UI to fit all needs!
-4. Play!
+2. Customize Skywars.yml to your likings
+3. Go to world and do /sw create
+4. Navigate Through UI to fit all needs!
+5. Play!
 
 **Hide and Seek:**
 
