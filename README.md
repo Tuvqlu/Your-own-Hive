@@ -1,6 +1,6 @@
 # Your-own-Hive
 
-Version: v1.2.0
+Version: v1.3.0
 
 This Plugin has all the essentials with HiveMC!
 
@@ -20,6 +20,8 @@ Add this plugin then check all ymls and set to your preferences!
 - Joining Items
 
 - Minigame Core
+
+- Hide and Seek
 
 - Friend Menu
 
@@ -79,6 +81,14 @@ Do /ht create (ht) to create your own!
 2. Go to world and do /sw create
 3. Navigate Through UI to fit all needs!
 4. Play!
+
+**Hide and Seek:**
+
+1. Set NPC in npc.yml
+2. Customize HAS.yml
+3. Go to World and do /sw create
+4. Navigate through UI to fit your needs!
+5. Play!
 
 **Credits:**
 
