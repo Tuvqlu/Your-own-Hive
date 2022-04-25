@@ -189,4 +189,17 @@ Cooldown: 1s
 
 Knockback: true
 Knockback: 1
+
+#pets
+
+Cubee: true
+Endolotl: true
+Dragon: true
+Dragon Colors:
+- Blue
+- Red
+- Green
+- Purple
+Pirate Ship: true
+Rock: true
 ...
