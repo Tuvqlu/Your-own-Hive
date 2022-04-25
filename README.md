@@ -91,10 +91,4 @@ Do /ht create (ht) to create your own!
 4. Navigate through UI to fit your needs!
 5. Play!
 
-**Credits:**
-
-- ItsToxicGG
-
-- FernanACM
-
-...
+------------------------
