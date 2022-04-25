@@ -1,6 +1,6 @@
 # Your-own-Hive
 
-Version: v1.3.0
+Version: v1.5.0
 
 This Plugin has all the essentials with HiveMC!
 
