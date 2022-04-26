@@ -7,6 +7,11 @@ Start With: 25%
 #what percentage of players needed to start
 
 Levels: true
+Level#: 75
+Prestige: true
+Prestige#: 5
+
+Auto-Prestige Cmd: /autoprestige sw {player} {#}
 
 Lucky ores: true
 Mystery Chest: true
