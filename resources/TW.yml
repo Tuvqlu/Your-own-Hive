@@ -23,4 +23,14 @@ Shop Items:
  "-64:0:picture/text:10g:§l§6Bar:Weapons
 #-id:meta:picture:price:name:category
 
+#levels
+Levels: true
+Enabled: true
+Level#: 100
+Prestige: True
+Prestige's: 5
+
+Prestige Command: /Pr {player} {prestige#}
+#command for auto giving prestige, staff only 
+
 ...
