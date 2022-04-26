@@ -259,4 +259,10 @@ Add:
  #minigames
  
  #if you are here, edit all minigames in their respective yml files
+
+SkyWars: true
+Hide and Seek: true
+Treasure Wars: true
+
+#not all minigames are complete
 ...
