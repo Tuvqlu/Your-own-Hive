@@ -30,7 +30,7 @@ Level#: 100
 Prestige: True
 Prestige's: 5
 
-Prestige Command: /Pr {player} {prestige#}
+Prestige Command: /autoprestige tw {player} {prestige#}
 #command for auto giving prestige, staff only 
 
 ...
