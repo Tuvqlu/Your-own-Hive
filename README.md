@@ -1,7 +1,7 @@
 # Your-Own-Hive
 
 -----------------------------
-Version: v1.6.0
+Version: v1.7.0 Prestige Update
 
 This Plugin has all the essentials with HiveMC!
 
