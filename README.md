@@ -20,6 +20,8 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Joining Items
 
+- Prestige
+
 - Minigame Core
 
 - Hide and Seek
