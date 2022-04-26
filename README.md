@@ -1,7 +1,7 @@
 # Your-Own-Hive
 
 -----------------------------
-Version: v1.5.0
+Version: v1.6.0
 
 This Plugin has all the essentials with HiveMC!
 
@@ -27,6 +27,8 @@ Add this plugin then check all ymls and set to your preferences!
 - Friend Menu
 
 - SkyWars
+
+- Treasure Wars
 
 - Hive PvP
 
@@ -80,15 +82,24 @@ Do /ht create (ht) to create your own!
 
 1. Set NPC
 2. Customize Skywars.yml to your likings
-3. Go to world and do /sw create
+3. Go to your world and do /sw create
 4. Navigate Through UI to fit all needs!
 5. Play!
+
+**Treasure Wars:**
+
+1. Set NPC
+2. Set an hour aside, it can take a while
+3. Customize TW.yml
+4. Go to your world and do /tw create
+5. Navigate through UI setup!
+6. Play and have fun!
 
 **Hide and Seek:**
 
 1. Set NPC in npc.yml
 2. Customize HAS.yml
-3. Go to World and do /sw create
+3. Go to your world and do /sw create
 4. Navigate through UI to fit your needs!
 5. Play!
 
