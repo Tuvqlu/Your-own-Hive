@@ -1,0 +1,26 @@
+---
+TW: true
+Enabled: true
+
+Bed Item: Treasure
+Level Changing: true
+#will it change with levels
+
+Countdown: 30
+Cages: false
+Respawn Time: 10
+Lucky Ores: false
+Mystery Chest: false
+
+Team Chest: true
+Generator Speed: 5s
+#gold generator
+
+#shop
+#all items already included you can add one like this
+
+Shop Items:
+ "-64:0:picture/text:10g:§l§6Bar:Weapons
+#-id:meta:picture:price:name:category
+
+...
