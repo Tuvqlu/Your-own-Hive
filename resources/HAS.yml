@@ -7,5 +7,9 @@ All Blocks: true
 
 Levels: true
 Level#: 50
+Prestige: True
+Prestige's: 5
+
+Prestige Cm: /autoprestige has {player} {#}
 
 ...
