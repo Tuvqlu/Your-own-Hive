@@ -16,6 +16,8 @@ Auto-Prestige Cmd: /autoprestige sw {player} {#}
 Lucky ores: true
 Mystery Chest: true
 Mystery Chest Rate: 240s
+ChestRefill: 300
+# 300 = 5 minutes
 #in seconds
 
 ...
