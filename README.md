@@ -1,7 +1,7 @@
 # Your-Own-Hive
 
 -----------------------------
-**Version: v1.7.0 Prestige Update**
+**Version: v1.8.0 TheBridge Update**
 
 This Plugin has all the essentials with HiveMC!
 
@@ -23,6 +23,8 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Joining Items
 
+- TheBridge
+
 - Prestige
 
 - Minigame Core
@@ -37,7 +39,7 @@ Add this plugin then check all ymls and set to your preferences!
 
 - Hive PvP
 
-- New UI
+- Setup UI
 
 - Texture Pack
 
@@ -104,7 +106,16 @@ Do /ht create (ht) to create your own!
 
 1. Set NPC in npc.yml
 2. Customize HAS.yml
-3. Go to your world and do /sw create
+3. Go to your world and do /has create
+4. Navigate through UI to fit your needs!
+5. Play!
+
+
+**TheBridge:**
+
+1. Set NPC in npc.yml
+2. Customize Bridge.yml
+3. Go to your world and do /tb create
 4. Navigate through UI to fit your needs!
 5. Play!
 
