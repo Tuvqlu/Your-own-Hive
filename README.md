@@ -2,6 +2,7 @@
 
 -----------------------------
 **Version: v1.8.0 TheBridge Update**
+
 **Next Update: Murder Mystery**
 
 This Plugin has all the essentials with HiveMC!
