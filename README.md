@@ -2,8 +2,13 @@
 
 -----------------------------
 **Version: v1.8.0 TheBridge Update**
+**Next Update: Murder Mystery**
 
 This Plugin has all the essentials with HiveMC!
+
+Updates Every Day!
+
+Play Hive on your own server!
 
 Add this plugin then check all ymls and set to your preferences!
 
@@ -22,54 +27,36 @@ Add this plugin then check all ymls and set to your preferences!
 **Currently Implemented:**
 
 - Joining Items
-
 - TheBridge
-
 - Prestige
-
 - Minigame Core
-
 - Hide and Seek
-
 - Friend Menu
-
 - SkyWars
-
 - Treasure Wars
-
-- Hive PvP
-
+- Hive PvP (Combo)
 - Setup UI
-
 - Texture Pack
-
 - Parties
-
 - Locker
-
 - Pets
-
 - Economy
-
 - NPCs
-
 - Levels
 
 **To Do:**
 
 - Hub
-
+- More NPCs (Shop)
 - Leaderboards
-
+- Murder Mystery
 - Quests
-
-- Minigames
-
+- Just Build
+- Survival Games
 - Easter Egg Hunt
-
 - Mixed Arcade
-
 - Ranks
+- MOTD
 
 **Hub Titles:**
 
