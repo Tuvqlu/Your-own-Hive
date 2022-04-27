@@ -1,0 +1,25 @@
+---
+#note: this is not an official hive minigame, this is an addon, the npc is cool and we have 50 levels set up
+Enabled: true
+TheBridge: true
+
+Countdown: 30
+UI: true
+
+Level: True
+Levels: 50
+Prestige: True
+MaxPrestige: 5
+
+Auto-PCmd: /autoprestige tb {player} {#}
+
+#settings
+#these can also be edited in a ui in game with command /setup ui tb
+
+Build in base area: true
+Bow cooldown: 2s
+Gapple Cooldown: 5s
+Height-limit: 10b
+Respawn Time: 3s
+
+...
