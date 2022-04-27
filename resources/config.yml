@@ -255,6 +255,10 @@ Add:
   Skywars: 
    76: "Kill Phrase:'{killer} smashed {victim} to pieces.'"
    77: "Gravestone:'gravestone.json'" #you must add the texture
+  
+ #setup-ui
+ Setup UI: true
+ Command: /setup ui {minigame}
    
  #minigames
  
@@ -263,6 +267,7 @@ Add:
 SkyWars: true
 Hide and Seek: true
 Treasure Wars: true
+TheBridge: true
 
 #not all minigames are complete
 ...
