@@ -48,7 +48,8 @@ Add this plugin then check all ymls and set to your preferences!
 **To Do:**
 
 - Hub
-- More NPCs (Shop)
+- More NPCs (Shop + Quest)
+- Hub 3D Models
 - Leaderboards
 - Murder Mystery
 - Quests
