@@ -5,6 +5,7 @@ Enabled: true
 Countdown: 30s
 All Blocks: true
 
+#levels
 Levels: true
 Level#: 50
 Prestige: True
