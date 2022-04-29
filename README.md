@@ -1,9 +1,9 @@
 # Your-Own-Hive
 
 -----------------------------
-**Version: v1.8.0 TheBridge Update**
+**Version: v1.9.0 Murder Mystery Update**
 
-**Next Update: Murder Mystery**
+**Next Update: Survival Games**
 
 This Plugin has all the essentials with HiveMC!
 
@@ -38,6 +38,7 @@ Add this plugin then check all ymls and set to your preferences!
 - Hive PvP (Combo)
 - Setup UI
 - Texture Pack
+- Murder Mystery
 - Parties
 - Locker
 - Pets
@@ -51,7 +52,6 @@ Add this plugin then check all ymls and set to your preferences!
 - More NPCs (Shop + Quest)
 - Hub 3D Models
 - Leaderboards
-- Murder Mystery
 - Quests
 - Just Build
 - Survival Games
