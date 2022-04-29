@@ -1,1 +1,25 @@
+---
+Murder Mystery: true
+Enabled: true
 
+Countdown: 30s
+Roles: true
+
+#roles
+Murderer: Murderer
+Sheriff: Detective
+Innocent: Innocent
+
+#chances
+Bigger Chances: True
+Highest Chance: 30%
+Lowest Chance: 0.4%
+#levels
+Levels: true
+Level#: 100
+Prestige: True
+Prestige's: 5
+
+Prestige Cm: /autoprestige mm {player} {#}
+
+...
