@@ -48,9 +48,9 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] NPCs
 - [X] Levels
 - [ ] Hub
-- More NPCs (Shop + Quest)
-- Hub 3D Models
-- Leaderboards
+- [ ] More NPCs (Shop + Quest)
+- [ ] Hub 3D Models
+- [ ] Leaderboards
 - Quests
 - Just Build
 - Survival Games
