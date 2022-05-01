@@ -5,6 +5,7 @@ Enabled: true
 Lobby Countdown: 30s
 Game Countdown: 15s
 
+#cows
 Cows: 3
 
 #supply-crates
