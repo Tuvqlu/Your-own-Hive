@@ -2,7 +2,7 @@
 
 -----------------------------
 
-**Version: v1.9.0 Murder Mystery Update**
+**Version: v2.0.0 Survival Games Update**
 
 **Next Update: Survival Games**
 
