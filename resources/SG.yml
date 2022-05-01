@@ -5,6 +5,8 @@ Enabled: true
 Lobby Countdown: 30s
 Game Countdown: 15s
 
+Cows: 3
+
 #deathmatch
 Deathmatch: True
 Players: 4
