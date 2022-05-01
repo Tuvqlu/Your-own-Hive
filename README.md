@@ -4,7 +4,7 @@
 
 **Version: v2.0.0 Survival Games Update**
 
-**Next Update: Survival Games**
+**Next Update: Just Build**
 
 This Plugin has all the essentials with HiveMC!
 
