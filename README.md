@@ -39,6 +39,7 @@ Add this plugin then check all ymls and set to your preferences!
 - Hive PvP (Combo)
 - Setup UI
 - Texture Pack
+- MOTD
 - Murder Mystery
 - Parties
 - Locker
@@ -59,7 +60,6 @@ Add this plugin then check all ymls and set to your preferences!
 - Easter Egg Hunt
 - Mixed Arcade
 - Ranks
-- MOTD
 
 ## **Hub Titles:**
 
