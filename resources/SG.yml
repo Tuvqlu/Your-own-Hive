@@ -8,7 +8,10 @@ Game Countdown: 15s
 Cows: 3
 
 #supply-crates
-Supply Crates: 
+Supply Crates: True
+How Often: 1m
+Effect: "Lightning Bolt"
+Msg: "A supply crate is being delivered..."
 
 #deathmatch
 Deathmatch: True
