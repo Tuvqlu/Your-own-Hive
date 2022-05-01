@@ -28,7 +28,7 @@ Add this plugin then check all ymls and set to your preferences!
 
 ## **To-Do:**
 
-[ X ] Joining Items
+- [X] Joining Items
 - TheBridge
 - Prestige
 - Minigame Core
