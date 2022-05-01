@@ -32,10 +32,10 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] TheBridge
 - [X] Prestige
 - [X] Minigame Core
-- Hide and Seek
-- Friend Menu
-- SkyWars
-- Treasure Wars
+- [X] Hide and Seek
+- [X] Friend Menu
+- [X] SkyWars
+- [X] Treasure Wars
 - Hive PvP (Combo)
 - Setup UI
 - Texture Pack
