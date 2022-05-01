@@ -9,6 +9,10 @@ Game Countdown: 15s
 Cows: 3
 
 #loot
+Tiers: True
+Tier#: 2
+
+#tiers
 
 #supply-crates
 Supply Crates: True
