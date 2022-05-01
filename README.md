@@ -26,7 +26,7 @@ Add this plugin then check all ymls and set to your preferences!
 8. Edit minigame .yml's
 9. Have fun!
 
-## **Currently Implemented:**
+## **To-Do:**
 
 - Joining Items
 - TheBridge
