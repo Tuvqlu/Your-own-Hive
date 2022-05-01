@@ -47,13 +47,13 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Economy
 - [X] NPCs
 - [X] Levels
+- [X] Survival GAmes
 - [ ] Hub
 - [ ] More NPCs (Shop + Quest)
 - [ ] Hub 3D Models
 - [ ] Leaderboards
 - Quests
 - Just Build
-- Survival Games
 - Easter Egg Hunt
 - Mixed Arcade
 - Ranks
