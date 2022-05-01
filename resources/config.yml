@@ -46,6 +46,7 @@ Join Game from list: true
 Joining HIVE Screen Enabled: true
 Joining Screen Text: HIVE
 Photos: true
+Force-Join: true
 
 #ui
 
@@ -136,9 +137,11 @@ Default: true
 Hub Title Sound Claim: note.pling
 Hub Title Particles: rainbow.swirls
 
-#texture-pack
+#motd
 
-Force-Join: true
+Force-MOTD: true
+Auto: false
+MOTD: "§l§eHIVE §5Minigames"
 
 #npcs
 npc: true
