@@ -111,7 +111,7 @@ Do /ht create (ht) to create your own!
 
 ## **Murder Mystery:**
 
-1. Set NPC in npc.yml
+1. Set NPC in npc.yml 
 2. Customize mm.yml
 3. Go to your world and do /mm create
 4. Navigate through UI to fit your needs!
