@@ -7,6 +7,11 @@ Game Countdown: 15s
 
 #cows
 Cows: 3
+Cow Colors:
+- Blue
+- Red
+- Yellow
+- Green
 
 #loot
 Tiers: True
