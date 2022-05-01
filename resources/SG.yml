@@ -18,6 +18,8 @@ Tiers: True
 Tier#: 2
 
 #tiers
+1: "Chest"
+2: "Ender_Chest"
 
 #supply-crates
 Supply Crates: True
