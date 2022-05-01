@@ -52,11 +52,11 @@ Add this plugin then check all ymls and set to your preferences!
 - [ ] More NPCs (Shop + Quest)
 - [ ] Hub 3D Models
 - [ ] Leaderboards
-- Quests
-- Just Build
-- Easter Egg Hunt
-- Mixed Arcade
-- Ranks
+- [ ] Quests
+- [ ] Just Build
+- [ ] Easter Egg Hunt
+- [ ] Mixed Arcade
+- [ ] Ranks
 
 ## **Hub Titles:**
 
@@ -72,7 +72,7 @@ Do /ht remove (hub title) to remove one and /ht remspawn to remove a spawned one
 
 Do /ht create (ht) to create your own!
 
-##?**SkyWars:**
+## **SkyWars:**
 
 1. Set NPC
 2. Customize Skywars.yml to your likings
