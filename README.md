@@ -114,7 +114,7 @@ Do /ht create (ht) to create your own!
 4. Navigate through UI to fit your needs!
 5. Play!
 
-## **Murder Mystery:**
+## **Survival Games:**
  
 1. Set NPC in npc.yml 
 2. Customize mm.yml
