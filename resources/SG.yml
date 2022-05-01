@@ -2,8 +2,8 @@
 Survival Games: true
 Enabled: true
 
-Countdown: 30s
-All Blocks: true
+Lobby Countdown: 30s
+Game Countdown: 15s
 
 #levels
 Levels: true
