@@ -1,6 +1,11 @@
 # Your-Own-Hive
 
 -----------------------------
+
+<p align="center">
+<img style="height: 150px;" alt="@TheHiveLobbyCore" src="https://media.discordapp.net/attachments/858321432178196490/907224927000743956/1636369570040.png"/>
+</p>
+
 **Version: v1.9.0 Murder Mystery Update**
 
 **Next Update: Survival Games**
@@ -13,7 +18,7 @@ Play Hive on your own server!
 
 Add this plugin then check all ymls and set to your preferences!
 
-**Steps:**
+## **Steps:**
 
 1. Download
 2. Add to your plugins
@@ -25,7 +30,7 @@ Add this plugin then check all ymls and set to your preferences!
 8. Edit minigame .yml's
 9. Have fun!
 
-**Currently Implemented:**
+## **Currently Implemented:**
 
 - Joining Items
 - TheBridge
@@ -46,7 +51,7 @@ Add this plugin then check all ymls and set to your preferences!
 - NPCs
 - Levels
 
-**To Do:**
+## **To Do:**
 
 - Hub
 - More NPCs (Shop + Quest)
@@ -60,7 +65,7 @@ Add this plugin then check all ymls and set to your preferences!
 - Ranks
 - MOTD
 
-**Hub Titles:**
+## **Hub Titles:**
 
 All Hive Hub titles are already included!
 
@@ -74,7 +79,7 @@ Do /ht remove (hub title) to remove one and /ht remspawn to remove a spawned one
 
 Do /ht create (ht) to create your own!
 
-**SkyWars:**
+##?**SkyWars:**
 
 1. Set NPC
 2. Customize Skywars.yml to your likings
@@ -82,7 +87,7 @@ Do /ht create (ht) to create your own!
 4. Navigate Through UI to fit all needs!
 5. Play!
 
-**Treasure Wars:**
+## **Treasure Wars:**
 
 1. Set NPC
 2. Set an hour aside, it can take a while
@@ -91,7 +96,7 @@ Do /ht create (ht) to create your own!
 5. Navigate through UI setup!
 6. Play and have fun!
 
-**Hide and Seek:**
+## **Hide and Seek:**
 
 1. Set NPC in npc.yml
 2. Customize HAS.yml
@@ -100,7 +105,7 @@ Do /ht create (ht) to create your own!
 5. Play!
 
 
-**TheBridge:**
+## **TheBridge:**
 
 1. Set NPC in npc.yml
 2. Customize Bridge.yml
@@ -108,7 +113,7 @@ Do /ht create (ht) to create your own!
 4. Navigate through UI to fit your needs!
 5. Play!
 
-**Murder Mystery:**
+## **Murder Mystery:**
 
 1. Set NPC in npc.yml
 2. Customize mm.yml
