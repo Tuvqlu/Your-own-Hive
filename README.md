@@ -41,12 +41,12 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Texture Pack
 - [X] MOTD
 - [X] Murder Mystery
-- Parties
-- Locker
-- Pets
-- Economy
-- NPCs
-- Levels
+- [X] Parties
+- [X] Locker
+- [X] Pets
+- [X] Economy
+- [X] NPCs
+- [X] Levels
 
 ## **To Do:**
 
