@@ -36,11 +36,11 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Friend Menu
 - [X] SkyWars
 - [X] Treasure Wars
-- Hive PvP (Combo)
-- Setup UI
-- Texture Pack
-- MOTD
-- Murder Mystery
+- [X] Hive PvP (Combo)
+- [X] Setup UI
+- [X] Texture Pack
+- [X] MOTD
+- [X] Murder Mystery
 - Parties
 - Locker
 - Pets
