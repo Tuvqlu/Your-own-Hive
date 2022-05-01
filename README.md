@@ -6,7 +6,7 @@
 
 **Next Update: Just Build**
 
-This Plugin has all the essentials with HiveMC!
+This Plugin has all the plugins from HIVE, just you get to customize it and make all the maps!
 
 Updates Every Day!
 
