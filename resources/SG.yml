@@ -6,6 +6,8 @@ Lobby Countdown: 30s
 Game Countdown: 15s
 
 #deathmatch
+Deathmatch: True
+Players: 4
 
 #levels
 Levels: true
