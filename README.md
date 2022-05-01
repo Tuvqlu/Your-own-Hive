@@ -118,7 +118,7 @@ Do /ht create (ht) to create your own!
  
 1. Set NPC in npc.yml 
 2. Customize SG.yml
-3. Go to your world and do /mm create
+3. Go to your world and do /sg create
 4. Navigate through UI to fit your needs!
 5. Play!
 
