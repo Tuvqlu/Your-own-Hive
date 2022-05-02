@@ -6,11 +6,13 @@ Bed Item: Treasure
 Level Changing: true
 #will it change with levels
 
+#settings
 Countdown: 30
 Cages: false
 Respawn Time: 10
 Lucky Ores: false
 Mystery Chest: false
+Max Game Time: 5m
 
 Team Chest: true
 Generator Speed: 5s
