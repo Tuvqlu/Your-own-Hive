@@ -2,8 +2,10 @@
 Survival Games: true
 Enabled: true
 
+#settings
 Lobby Countdown: 30s
 Game Countdown: 15s
+MaxGameTime: 5m
 
 #cows
 Cows: 3
