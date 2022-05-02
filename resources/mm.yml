@@ -2,8 +2,10 @@
 Murder Mystery: true
 Enabled: true
 
+#settings
 Countdown: 30s
 Roles: true
+MaxGameTime: 5m
 
 #roles
 Murderer: Murderer
