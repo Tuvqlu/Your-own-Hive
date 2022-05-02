@@ -2,7 +2,7 @@
 Skywars: true
 Enabled: true
 
-#settings
+#settings 
 Countdown: 15
 Start With: 25%
 #what percentage of players needed to start
