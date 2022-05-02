@@ -5,6 +5,7 @@ Enabled: true
 #settings
 Countdown: 30s
 All Blocks: true
+Max-Game-Time: 5m
 
 #levels
 Levels: true
