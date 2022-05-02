@@ -2,9 +2,11 @@
 Skywars: true
 Enabled: true
 
+#settings
 Countdown: 15
 Start With: 25%
 #what percentage of players needed to start
+MaxGameTime: 5m
 
 Levels: true
 Level#: 75
