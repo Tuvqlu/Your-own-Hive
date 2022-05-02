@@ -22,7 +22,9 @@ Bow cooldown: 2s
 Gapple Cooldown: 5s
 Height-limit: 10b
 Respawn Time: 3s
+MaxGameTime: 5m
 
+#designs
 Advanced Goal Design: true
 AGD: End Portal
 #options: End Portal
