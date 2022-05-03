@@ -24,7 +24,8 @@ Add this plugin then check all ymls and set to your preferences!
 6. Set NPCs in config.yml
 7. Build maps
 8. Edit minigame .yml's
-9. Have fun!
+9. Setup minigames 
+10. Have fun!
 
 ## **To-Do:**
 
