@@ -1,1 +1,23 @@
+---
+Just Build: true
+Enabled: true
+
+#settings
+Countdown: 30s
+Max-Game-Time: 5m
+
+#levels
+Levels: true
+Level#: 20
+Prestige: True
+Prestige's: 5
+
+Prestige Cm: /autoprestige jb {player} {#}
+
+#topics
+Topics:
+- Banana
+- Pumpkin
+... 
+ 
 
