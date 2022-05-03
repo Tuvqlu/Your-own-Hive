@@ -2,9 +2,9 @@
  
 -----------------------------
 
-**Version: v2.0.0 Survival Games Update**
+**Version: v2.1.0 Just Build Update**
 
-**Next Update: Just Build** 
+**Next Update: Ranks** 
    
 This Plugin has all the plugins from HIVE, just you get to customize it and make all the maps!
 
@@ -48,12 +48,12 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] NPCs
 - [X] Levels
 - [X] Survival GAmes
+- [X] Just Build
 - [ ] Maps
 - [ ] More NPCs (Shop + Quest)
 - [ ] Hub 3D Models
 - [ ] Leaderboards
 - [ ] Quests
-- [ ] Just Build
 - [ ] Easter Egg Hunt
 - [ ] Mixed Arcade
 - [ ] Ranks
@@ -119,6 +119,14 @@ Do /ht create (ht) to create your own!
 1. Set NPC in npc.yml 
 2. Customize SG.yml
 3. Go to your world and do /sg create
+4. Navigate through UI to fit your needs!
+5. Play!
+
+## **Just Build:**
+ 
+1. Set NPC in npc.yml 
+2. Customize jb.yml
+3. Go to your world and do /jb create
 4. Navigate through UI to fit your needs!
 5. Play!
 
