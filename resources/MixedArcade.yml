@@ -16,6 +16,22 @@ Color: blue
 Cars: 10
 Seats Per Car: 4
 
+#collectibles
+Arcade Tokens: true
+Token Amount: 20
+Token Design: Modern
+
+Token 1: "0, 0, 0"
+Token 2: "0, 0, 0"
+Token 3: "0, 0, 0"
+Token 4: "0, 0, 0"
+Token 5: "0, 0, 0"
+Token 6: "0, 0, 0"
+Token 7: "0, 0, 0"
+Token 8: "0, 0, 0"
+
+#minigames
+
 #TheBridge
 
 #note: this is not 
