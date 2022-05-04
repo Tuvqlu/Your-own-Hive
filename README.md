@@ -2,9 +2,9 @@
  
 -----------------------------
 
-**Version: v2.1.0 Just Build Update**
+**Version: v2.2.0 Ranks + Arcade Core Update**
 
-**Next Update: Ranks** 
+**Next Update: Mixed Arcade Minigames** 
    
 This Plugin has all the plugins from HIVE, just you get to customize it and make all the maps!
 
@@ -51,13 +51,15 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Survival Games
 - [X] Just Build
 - [X] Ranks
-- [ ] Maps
+- [X] Mixed Arcade Core
+- [ ] Mixed Arcade Duels
+- [ ] Mixed Arcade BlockDrop
+- [ ] Mixed Arcade GroundWars
 - [ ] More NPCs (Shop + Quest)
 - [ ] Hub 3D Models
 - [ ] Leaderboards
 - [ ] Quests
 - [ ] Easter Egg Hunt
-- [ ] Mixed Arcade
 
 ## **Hub Titles:**
 
@@ -99,13 +101,21 @@ Do /ht create (ht) to create your own!
 5. Play!
 
 
-## **TheBridge:**
+## **Mixed Arcade:**
 
 1. Set NPC in npc.yml
-2. Customize Bridge.yml
-3. Go to your world and do /tb create
-4. Navigate through UI to fit your needs!
+2. Customize MixedArxade.yml
+3. Go to your world and do /ma create
+4. Navigate through UI to fit your needs, setup all minigames!
 5. Play!
+
+FEATURES:
+
+• The Bridge
+• Collectibles
+• NPCs
+• Hub
+• Monorail
 
 ## **Murder Mystery:**
  
