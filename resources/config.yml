@@ -8,6 +8,20 @@ Party: true
 Locker: true
 Minigame Selector: true
 
+#ranks
+
+Ranks: true
+Default: default
+
+Default => gray
+Plus => Green
+YouTube => Dark_Red
+Helper => Cyan
+Moderator => Yellow
+HIVE => Yellow
+Hive++ => Light_Purple
+VIP => Dark_Purple
+
 #combo
 
 Hive PvP: true
