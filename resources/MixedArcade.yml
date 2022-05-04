@@ -1,5 +1,13 @@
 ---
-#COMING SOON
+Mixed Arcade: true
+Enabled: true
+
+#simple-stuff
+Mixed Arcade Hub World: "mah"
+Duels NPC: "0, 0, 0"
+Bridge NPC: "0, 1, 0"
+BlockDrop NPC: "0, 0, 2"
+Ground Wars NPC: "0, 0, 3"
 
 #TheBridge
 
