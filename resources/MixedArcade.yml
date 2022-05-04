@@ -9,6 +9,13 @@ Bridge NPC: "0, 1, 0"
 BlockDrop NPC: "0, 0, 2"
 Ground Wars NPC: "0, 0, 3"
 
+#monorail
+#set this up in game with /ma monorail ui
+Monorail: true
+Color: blue
+Cars: 10
+Seats Per Car: 4
+
 #TheBridge
 
 #note: this is not 
