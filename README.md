@@ -60,6 +60,7 @@ Add this plugin then check all ymls and set to your preferences!
 - [ ] Leaderboards
 - [ ] Quests
 - [ ] Easter Egg Hunt
+- [ ] Gifting
 
 ## **Hub Titles:**
 
