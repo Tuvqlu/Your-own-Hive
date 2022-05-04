@@ -48,8 +48,9 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Economy
 - [X] NPCs
 - [X] Levels
-- [X] Survival GAmes
+- [X] Survival Games
 - [X] Just Build
+- [X] Ranks
 - [ ] Maps
 - [ ] More NPCs (Shop + Quest)
 - [ ] Hub 3D Models
@@ -57,7 +58,6 @@ Add this plugin then check all ymls and set to your preferences!
 - [ ] Quests
 - [ ] Easter Egg Hunt
 - [ ] Mixed Arcade
-- [ ] Ranks
 
 ## **Hub Titles:**
 
