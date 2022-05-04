@@ -2,7 +2,7 @@
  
 -----------------------------
 
-**Version: v2.2.0 Ranks + Arcade Core Update**
+**Version: v2.3.0 Ranks + Arcade Core Update**
 
 **Next Update: Mixed Arcade Minigames** 
    
