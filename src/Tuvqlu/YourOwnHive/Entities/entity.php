@@ -2,6 +2,6 @@
 
 namespace Tuvqlu\YourOwnHive\Entities;
 
-class entity extends entity{
+class entity extends entity{ 
 
 }
