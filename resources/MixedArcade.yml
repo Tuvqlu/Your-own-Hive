@@ -80,7 +80,7 @@ MaxPrestige: 5
 Auto-PCmd: /autoprestige ds {player} {#}
 
 #settings
-#these can also be edited in a ui in game with command /setup ui tb
+#these can also be edited in a ui in game with command /setup ui ds
 
 Lives: 1
 Bow cooldown: 10s
@@ -88,4 +88,26 @@ Gapple Cooldown: 10s
 Height-limit: 20b
 MaxGameTime: 5m
 
+#blockdrop
+
+Enabled: true
+Blockdrop: true
+  
+Countdown: 20
+UI: true
+
+#levels
+Level: True
+Levels: 20
+Prestige: True
+MaxPrestige: 5
+
+Auto-PCmd: /autoprestige bd {player} {#}
+
+#settings
+#these can also be edited in a ui in game with command /setup ui tb
+
+MaxGameTime: 5m 
+DecayTime: 2s
+Decay: true
 ...
