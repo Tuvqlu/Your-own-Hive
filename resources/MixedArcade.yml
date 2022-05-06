@@ -65,4 +65,27 @@ AGD: End Portal
 
 #duels
 
+Enabled: true
+Duels: true
+  
+Countdown: 15
+UI: true
+
+#levels
+Level: True
+Levels: 75
+Prestige: True
+MaxPrestige: 5
+
+Auto-PCmd: /autoprestige ds {player} {#}
+
+#settings
+#these can also be edited in a ui in game with command /setup ui tb
+
+Lives: 1
+Bow cooldown: 10s
+Gapple Cooldown: 10s
+Height-limit: 20b
+MaxGameTime: 5m
+
 ...
