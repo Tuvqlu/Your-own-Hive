@@ -4,7 +4,7 @@
 
 **Version: v2.4.0 Mixed Arcade Update**
 
-**Next Update: Shop and Quests** 
+**Next Update: Shop and Quests**  
    
 This Plugin has all the plugins from HIVE, just you get to customize it and make all the maps!
 
