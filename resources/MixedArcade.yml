@@ -105,9 +105,31 @@ MaxPrestige: 5
 Auto-PCmd: /autoprestige bd {player} {#}
 
 #settings
-#these can also be edited in a ui in game with command /setup ui tb
+#these can also be edited in a ui in game with command /setup ui bd
 
 MaxGameTime: 5m 
 DecayTime: 2s
 Decay: true
+
+#groundwars
+
+Enabled: true
+GroundWars: true
+  
+Countdown: 20
+UI: true
+
+#levels
+Level: True
+Levels: 20
+Prestige: True
+MaxPrestige: 5
+
+Auto-PCmd: /autoprestige gw {player} {#}
+
+#settings
+#these can also be edited in a ui in game with command /setup ui gw
+
+Max Game Time: 5m
+Max Players: 12
 ...
