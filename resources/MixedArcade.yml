@@ -33,8 +33,7 @@ Token 8: "0, 0, 0"
 #minigames
 
 #TheBridge
-
-#note: this is not 
+ 
 Enabled: true
 TheBridge: true
   
