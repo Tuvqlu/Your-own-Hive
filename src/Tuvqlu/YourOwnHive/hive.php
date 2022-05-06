@@ -4,7 +4,7 @@ namespace Tuvqlu\YourOwnHive\commands\subcommands;
 use pocketmine\command\CommandSender;
 use CortexPE\Commando\BaseSubCommand;
 /**
- * Class Hive
+ * Class Hive 
  * @package Tuvqlu\YourOwnHive\commands\subcommands
  */
 class Hive extends BaseSubCommand {
