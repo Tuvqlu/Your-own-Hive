@@ -61,6 +61,7 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Quests
 - [ ] Easter Egg Hunt
 - [ ] Gifting
+- [ ] Mixed Arcade BlockParty
 
 ## **Hub Titles:**
 
