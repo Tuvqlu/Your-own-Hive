@@ -2,9 +2,9 @@
  
 -----------------------------
 
-**Version: v2.4.0 Mixed Arcade Update**
+**Version: v2.5.0 Shop and Quests Update**
 
-**Next Update: Shop and Quests**  
+**Next Update: Leaderboards**  
    
 This Plugin has all the plugins from HIVE, just you get to customize it and make all the maps!
 
@@ -55,10 +55,10 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Mixed Arcade Duels
 - [X] Mixed Arcade BlockDrop
 - [X] Mixed Arcade GroundWars
-- [ ] More NPCs (Shop + Quest)
-- [ ] Hub 3D Models
+- [X] More NPCs (Shop + Quest)
+- [X] Hub 3D Models
 - [ ] Leaderboards
-- [ ] Quests
+- [X] Quests
 - [ ] Easter Egg Hunt
 - [ ] Gifting
 
