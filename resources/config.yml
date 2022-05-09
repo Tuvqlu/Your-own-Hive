@@ -207,6 +207,32 @@ Cooldown: 1s
 Knockback: true
 Knockback: 1
 
+#quests
+
+Quests: True
+NPC: 3, 0, 0 "world"
+Model: default 
+Name: "§l§eQUESTS"
+
+Minigame Quests: true
+Chatting Quests: false
+Exploration Quests: false
+
+Max Quest: 10
+Max Quest+: 20
+Max Quest YT: 30
+Max Quest Staff: 50
+
+Max Quest Period: 10h
+
+#quest-island-models
+Quest Back Home: 3, 0, 0 "world"
+Quests NPC: 4, 0, 0 "world"
+
+Reward 1: 5, 0, 0 "world"
+Reward 2: 10, 0, 0 "world"
+Reward 3: 10, 10, 0 "world"
+
 #pets
 
 Cubee: true
