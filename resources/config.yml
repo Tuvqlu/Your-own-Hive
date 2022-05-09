@@ -276,6 +276,20 @@ Add:
  #setup-ui
  Setup UI: true
  Command: /setup ui {minigame}
+
+#shop
+
+Weekly Costumes: true
+
+Display 1: 4, 0, 0 "world"
+Display 2: 12, 0, 0 "world"
+
+Money: Economy
+Cost: 200
+
+Anime Teens Display: 50, 0, 0 "world"
+Pets Board: 25, 0, 0 "world"
+Survival World Display: 39, 0, 0 "world"
    
  #minigames
  
