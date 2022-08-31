@@ -13,14 +13,14 @@ Minigame Selector: true
 Ranks: true
 Default: default
 
-Default => gray
-Plus => Green
-YouTube => Dark_Red
-Helper => Cyan
-Moderator => Yellow
-HIVE => Yellow
-Hive++ => Light_Purple
-VIP => Dark_Purple
+Default => "GRAY"
+Plus => "GREEN"
+YouTube => "DARK_RED"
+Helper => "DARK_AQUA"
+Moderator => "YELLOW"
+HIVE => "GOLD"
+Hive++ => "LIGHT_PURPLE"
+VIP => "DARK_PURPLE"
 
 #combo
 
@@ -50,7 +50,7 @@ Show Game from list: true
 #will it show what game they are in list
 Show hub title in list: true
 #will it show their hub title in list
-New Friend Notifs: true 
+New Friend Notifs: true
 #if false they will be in toggles
 Join Game from list: true
 #can you join your friends game from a list
@@ -212,7 +212,7 @@ Knockback: 1
 Quests: True
 NPC: 3, 0, 0 "world"
 Model: default 
-Name: "§l§eQUESTS"
+Name: "§l§eQUESTS \n Click Me!"
 
 Minigame Quests: true
 Chatting Quests: false
@@ -238,6 +238,7 @@ Reward 3: 10, 10, 0 "world"
 Cubee: true
 Endolotl: true
 Dragon: true
+Pirate Ship: true
 Dragon Colors:
 - Blue
 - Red
@@ -245,6 +246,11 @@ Dragon Colors:
 - Purple
 Pirate Ship: true
 Rock: true
+
+#mounts
+
+PirateShip: true
+Car: true
 
 #minigame-core
 Enabled: true
