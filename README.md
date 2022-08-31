@@ -59,6 +59,7 @@ Add this plugin then check all ymls and set to your preferences!
 - [X] Hub 3D Models
 - [ ] Leaderboards
 - [X] Quests
+- [X] Mounts
 - [ ] Easter Egg Hunt
 - [ ] Gifting
 - [ ] Mixed Arcade BlockParty
