@@ -9,7 +9,7 @@ Max-Game-Time: 5m
 
 #levels
 Levels: true
-Level#: 50
+LevelAmount: 50
 Prestige: True
 Prestige's: 5
 
